@@ -1,3 +1,7 @@
-xtarag01.pdf
-out.txt
+*.pdf
 map.png
+*.txt
+ukazka
+*.dot
+xtarag01.md
+*.zip
